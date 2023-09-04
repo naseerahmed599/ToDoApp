@@ -1,6 +1,6 @@
 # todoapp
 
-ToDo APp
+ToDo App
 
 ## Getting Started
 
